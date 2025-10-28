@@ -208,10 +208,3 @@ if iom_file.is_eeg_present:
     print(f"Channels: {channels}")
 ```
 
-## License
-
-[Add your license information here]
-
-## Authors
-
-[Add author information here]
