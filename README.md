@@ -16,7 +16,7 @@ A Python library for reading, processing, and visualizing IOM (Intraoperative Mo
 ### Required Dependencies
 
 ```bash
-pip install numpy pandas h5py mne
+pip install numpy pandas h5py mne mne-qt-browser
 ```
 
 ## Usage
@@ -207,4 +207,5 @@ if iom_file.is_eeg_present:
     )
     print(f"Channels: {channels}")
 ```
+
 
